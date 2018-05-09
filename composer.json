@@ -1,0 +1,12 @@
+{
+    "name": "phpbenchmarks/smarty",
+    "license": "proprietary",
+    "type": "project",
+    "require": {
+        "smarty/smarty": "2.6.*",
+        "phpbenchmarks/smarty-common": "2.1.0"
+    },
+    "autoload": {
+        "files": ["vendor/smarty/smarty/libs/Smarty.class.php"]
+    }
+}
